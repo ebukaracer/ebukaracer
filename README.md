@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-  <b><i> Know about🎯 </i></b>
+  <b><i> Tech stacks🎯 </i></b>
 </p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity">
