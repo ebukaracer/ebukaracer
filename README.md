@@ -6,7 +6,7 @@
 <p align="center"> 
  🔭 I develop games in Unity<br>
  🌱 I’m currently learning dotnet MAUI<br>
- 👯 I’m open to job opportunities
+ 👯 I’m open to opportunities
 </p>
 
 <p align="center"> 
@@ -18,6 +18,14 @@
 <img src="https://img.shields.io/badge/-dotnet-512BD4?style=flat-square?label=.NET&logo=.NET&style=for-the-badge"&logoColor=white" alt="dotnet">
 </p>
 
+ <p align="center"> 
+   <b><i> My Projects⚒️ </i></b>
+ </p>
+ <p align="center"> 
+ <a href="https://github.com/stars/ebukaracer/lists/My-Games"> Games </a> |
+ <a href="https://github.com/stars/ebukaracer/lists/My-Packages"> Packages </a>
+ </p>
+                                                                                                                                               
 <p align="center"> 
   <b><i> Let's connect! :incoming_envelope: </i></b>
 </p>
