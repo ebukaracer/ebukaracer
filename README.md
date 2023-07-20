@@ -15,7 +15,7 @@
 <p align="center"> 
 <img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity">
 <img src="https://img.shields.io/badge/-Blender-white?style=flat-square?label=Blender&logo=Blender&style=for-the-badge&logoColor=F5792A" alt="Blender">
-<img src="https://img.shields.io/badge/-dotnet-512BD4?style=flat-square?label=.NET&logo=.NET&style=for-the-badge"&logoColor=white" alt="dotnet">
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square?label=.NET&logo=.NET&style=for-the-badge"&logoColor=white" alt=".NET">
 </p>
 
  <p align="center"> 
