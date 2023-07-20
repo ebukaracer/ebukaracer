@@ -1,12 +1,12 @@
- <h1 align="center"> Hi there 👋 </h1>
+ <h1 align="center"> Hey there 👋 </h1>
 
 <p align="center"> 
   <b><i> About me🙋‍♂️ </i></b>
 </p>
 <p align="center"> 
  🔭 I develop games in Unity<br>
- 🌱 I’m currently learning dotnet MAUI<br>
- 👯 I’m open to opportunities
+ 🌱 Also a .NET MAUI enthusiast<br>
+ 👯 I’m open to any opportunity that finds me.
 </p>
 
 <p align="center"> 
