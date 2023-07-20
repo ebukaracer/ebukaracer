@@ -4,8 +4,8 @@
   <b><i> About me🙋‍♂️ </i></b>
 </p>
 <p align="center"> 
- 🔭 I develop games in Unity<br>
- 🌱 Also a .NET MAUI enthusiast<br>
+ 🔭 I develop games in Unity.<br>
+ 🌱 Also a .NET MAUI enthusiast.<br>
  👯 I’m open to any opportunity that finds me.
 </p>
 
