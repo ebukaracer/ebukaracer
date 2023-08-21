@@ -4,9 +4,9 @@
   <b><i> About me🙋‍♂️ </i></b>
 </p>
 <p align="center"> 
- 🔭 I develop games in Unity.<br>
+ 🔭 I develop Games in Unity.<br>
  🌱 Also a .NET MAUI enthusiast.<br>
- 👯 Open to game dev/.Net Maui roles.
+ 👯 Open to Game Dev/.Net Maui roles.
 </p>
 
 <p align="center"> 
