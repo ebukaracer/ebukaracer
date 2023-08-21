@@ -23,7 +23,8 @@
  </p>
  <p align="center"> 
  <a href="https://github.com/stars/ebukaracer/lists/My-Games"> Games </a> |
- <a href="https://github.com/stars/ebukaracer/lists/My-Packages"> Packages </a>
+  <a href="https://github.com/stars/ebukaracer/lists/My-Apps"> Apps </a> |
+  <a href="https://github.com/stars/ebukaracer/lists/My-Packages"> Packages </a>
  </p>
                                                                                                                                                
 <p align="center"> 
