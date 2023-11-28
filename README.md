@@ -5,26 +5,27 @@
 </p>
 <p align="center"> 
  🔭 Game Developer.<br>
- 🌱 .NET MAUI Enthusiast.<br>
- 👯 Open to any Game Dev/.Net Maui Roles.
+ 🌱 .NET/Rust Enthusiast.<br>
+ 👯 Open to Game Dev Roles.
 </p>
 
 <p align="center"> 
   <b><i> Tech stacks🎯 </i></b>
 </p>
 <p align="center"> 
-<img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity">
-<img src="https://img.shields.io/badge/-Blender-white?style=flat-square?label=Blender&logo=Blender&style=for-the-badge&logoColor=F5792A" alt="Blender">
-<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square?label=.NET&logo=.NET&style=for-the-badge"&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity3D">
+ <img src="https://img.shields.io/badge/-Rider-ffffff?style=flat-square?label=Rider&logo=Rider&style=for-the-badge&logoColor=black" alt="RiderIDE">
+<img src="https://img.shields.io/badge/-rust-ffffff?style=flat-square?label=rust&logo=rust&style=for-the-badge&logoColor=black" alt="RustLang">
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square?label=.NET&logo=.NET&style=for-the-badge&logoColor=white" alt="dotnet">
 </p>
 
  <p align="center"> 
    <b><i> My Projects⚒️ </i></b>
  </p>
  <p align="center"> 
- <a href="https://github.com/stars/ebukaracer/lists/My-Games"> Games </a> |
-  <a href="https://github.com/stars/ebukaracer/lists/My-Apps"> Apps </a> |
-  <a href="https://github.com/stars/ebukaracer/lists/My-Packages"> Packages </a>
+ <a href="https://github.com/stars/ebukaracer/lists/Games"> Games </a> |
+  <a href="https://github.com/stars/ebukaracer/lists/.NETs"> .NETs </a> |
+  <a href="https://github.com/stars/ebukaracer/lists/Packages"> Packages </a>
  </p>
                                                                                                                                                
 <p align="center"> 
