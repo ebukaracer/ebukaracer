@@ -24,7 +24,7 @@
  </p>
  <p align="center"> 
  <a href="https://github.com/stars/ebukaracer/lists/Games"> Games </a> |
-  <a href="https://github.com/stars/ebukaracer/lists/.NETs"> .NETs </a> |
+  <a href="https://github.com/stars/ebukaracer/lists/dotnets"> dotnets </a> |
   <a href="https://github.com/stars/ebukaracer/lists/Packages"> Packages </a>
  </p>
                                                                                                                                                
