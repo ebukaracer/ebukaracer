@@ -4,9 +4,9 @@
   <b><i> About me🙋‍♂️ </i></b>
 </p>
 <p align="center"> 
- 🔭 Game Developer.<br>
- 🌱 .NET/Rust Enthusiast.<br>
- 👯 Open to Game Dev Roles.
+ 🔭 Game Developer<br>
+ 🌱 .NET/Rust Enthusiast<br>
+ 👯 Open to Opportunities
 </p>
 
 <p align="center"> 
@@ -20,12 +20,7 @@
 </p>
 
  <p align="center"> 
-   <b><i> My Projects⚒️ </i></b>
- </p>
- <p align="center"> 
- <a href="https://github.com/stars/ebukaracer/lists/Games"> Games </a> |
-  <a href="https://github.com/stars/ebukaracer/lists/dotnets"> dotnets </a> |
-  <a href="https://github.com/stars/ebukaracer/lists/Packages"> Packages </a>
+   <b><i><a href="https://github.com/ebukaracer?tab=stars"> Quickly hop onto My Projects⚒️ </a></i></b>
  </p>
                                                                                                                                                
 <p align="center"> 
