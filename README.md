@@ -1,17 +1,13 @@
- <h1 align="center"> Hey there 👋 </h1>
+ <h1 align="center"> Uhm..🤔</h1>
 
-<p align="center"> 
-  <b><i> About me🙋‍♂️ </i></b>
+<p align="center">🙋‍♂️
 </p>
 <p align="center"> 
  🔭 Game Developer<br>
- 🌱 .NET/Rust Enthusiast<br>
- 👯 Open to Opportunities
+ 🌱 .NET Blazor/Rust Enthusiast<br>
 </p>
 
-<p align="center"> 
-  <b><i> Tech stacks🎯 </i></b>
-</p>
+<p align="center"> 🎯</p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity3D">
  <img src="https://img.shields.io/badge/-Rider-ffffff?style=flat-square?label=Rider&logo=Rider&style=for-the-badge&logoColor=black" alt="RiderIDE">
@@ -19,12 +15,13 @@
 <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square?label=.NET&logo=.NET&style=for-the-badge&logoColor=white" alt="dotnet">
 </p>
 
+<p align="center">📂</p>
  <p align="center"> 
-   <b><i><a href="https://github.com/ebukaracer?tab=stars"> Quickly hop onto My Projects⚒️ </a></i></b>
+   <b><a href="https://github.com/ebukaracer?tab=stars"> Projects?</a></b>
  </p>
                                                                                                                                                
 <p align="center"> 
-  <b><i> Let's connect! :incoming_envelope: </i></b>
+  <b>📨</b>
 </p>
 <p align="center">
 <a href="mailto:ebuzycollins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
