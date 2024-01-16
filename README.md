@@ -1,13 +1,12 @@
  <h1 align="center"> Uhm..🤔</h1>
 
-<p align="center">🙋‍♂️
-</p>
+<p align="center">📌</p>
 <p align="center"> 
- 🔭 Game Developer<br>
- 🌱 .NET Blazor/Rust Enthusiast<br>
+Game Developer<br>
+.NET Blazor/Rust Enthusiast<br>
 </p>
 
-<p align="center"> 🎯</p>
+<p align="center"> 📦</p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity3D">
  <img src="https://img.shields.io/badge/-Rider-ffffff?style=flat-square?label=Rider&logo=Rider&style=for-the-badge&logoColor=black" alt="RiderIDE">
