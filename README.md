@@ -9,9 +9,9 @@ Unity Game Developer<br>
 
 <p align="center"> 📦</p>
 <p align="center"> 
-<img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity3D">
-<img src="https://img.shields.io/badge/-rust-ffffff?style=flat-square?label=rust&logo=rust&style=for-the-badge&logoColor=black" alt="RustLang">
-<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square?label=.NET&logo=.NET&style=for-the-badge&logoColor=white" alt=".Net">
+<img src="https://img.shields.io/badge/-Unity-222c37?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity3D">
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square?label=.NET&logo=.NET&style=for-the-badge&logoColor=black" alt=".Net">
+<img src="https://img.shields.io/badge/-rust-B94700?style=flat-square?label=rust&logo=rust&style=for-the-badge&logoColor=black" alt="RustLang">
 </p>
 
 <p align="center">📂</p>
