@@ -2,8 +2,9 @@
 
 <p align="center">📌</p>
 <p align="center"> 
-Game Developer<br>
-.NET/Rust Enthusiast<br>
+Unity Game Developer<br>
+ ASP.NET Web Developer<br>
+ Rust Enthusiast<br>
 </p>
 
 <p align="center"> 📦</p>
