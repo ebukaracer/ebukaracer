@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-     # Configure Git
+    # Configure Git
       - name: Set up Git
         run: |
           git config user.name "GitHub Actions Bot"
@@ -48,6 +48,8 @@ jobs:
           # Stage the renamed file (README.md)
           git add README.md
 
-          # Commit and push the changes
-          git commit -m "Sync docfx/index.md from unlisted to README.md in main"
+          # Commit the changes, even if there are no actual file changes
+          git commit -m "Latest changes" || echo "No changes to commit"
+
+          # Push the changes
           git push origin main
