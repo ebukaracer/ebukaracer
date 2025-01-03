@@ -1,0 +1,6 @@
+- name: Install Guide
+  href: INSTALLGUIDE.md
+- name: Setup Guide
+  href: SETUPGUIDE.md
+- name: License
+  href: LICENSE.md
