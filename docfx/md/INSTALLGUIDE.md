@@ -5,12 +5,12 @@
 - Clone the desired `repo` to your preferred location
 - Lunch your Unity project
 - Open `Package Manager`, located under `Windows` drop-down
-- Under `Add(+)` package option, choose `Add package from disk`
+- Under the `Add(+)` package option, choose `Add package from disk`
 - Locate the path where you downloaded the package
-- Select the `package.json` file located inside the package's directory.
+- Select the `package.json` file located inside one of the package's directories.
 
-### Installation from a Git URL
-- Open `Package Manager`, located under `Windows` drop-down.
-- Under `Add(+)` package option, choose `Add package from git url`.
+### Installation from a Git URL (Unity v2019+)
+- Open `Package Manager`, located under `Windows` drop-down
+- Under the `Add(+)` package option, choose `Add package from git url`
 - Paste the `git url` for the package you intend to install inside the box provided, such as: `https://github.com/ebukaracer/pkg-name.git` or `https://github.com/ebukaracer/pkg-name.git#xyz` 
-- Hit `add`
+- Hit `ADD`.
