@@ -1,13 +1,11 @@
-name: Sync index.md to README.md in main
+name: Sync index.md(in unlisted branch) with README.md(in main branch)
 
 on:
   push:
     branches:
-      - unlisted
+      - main
     paths:
-      - 'docfx/index.md'
-
-  # Allows you to run this workflow manually from the Actions tab	
+      - 'README.md'
   workflow_dispatch:
 
 jobs:
@@ -15,41 +13,38 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
-      - name: Checkout repository
+      - name: Checkout repository with all branches
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history so we can access all branches
 
-    # Configure Git
       - name: Set up Git
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
-      # Fetch the latest main branch
-      - name: Fetch latest main branch
-        run: git fetch origin main
+      - name: Fetch all branches
+        run: git fetch --all
 
-      # Checkout the main branch
-      - name: Checkout main branch
-        run: git checkout main
+      - name: Checkout unlisted branch
+        run: git checkout unlisted
 
-      # Copy index.md from unlisted, rename to README.md, and remove original
-      - name: Sync docfx/index.md to README.md in main
+      - name: Sync docfx/index.md in unlisted with README.md in main
         run: |
-          # Checkout the docfx/index.md from unlisted branch
-          git checkout unlisted -- docfx/index.md
+          # Checkout README.md from main branch
+          git checkout origin/main -- README.md
           
-          # Rename the file to README.md
-          mv docfx/index.md README.md
+          # move the contents to index.md
+          mv README.md docfx/index.md
 
-          # Remove docfx/index.md from the git index
-          git rm docfx/index.md
+          # Remove README.md from index if it exists
+          git rm --cached README.md || true
 
-          # Stage the renamed file (README.md)
-          git add README.md
+          # Stage the changes
+          git add docfx/index.md
 
           # Commit the changes, even if there are no actual file changes
-          git commit -m "Latest changes" || echo "No changes to commit"
+          git commit -m "Sync index.md(unlisted branch) with README.md(main branch)" || echo "No changes to commit"
 
           # Push the changes
-          git push origin main
+          git push origin unlisted
