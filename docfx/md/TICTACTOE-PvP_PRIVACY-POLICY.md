@@ -10,9 +10,9 @@ The Application collects limited information when you download and use it. This 
 *   The pages of the Application that you visit, the time and date of your visit, and the time spent on those pages
 *   The operating system and version used on your mobile device
 
-The Application uses Unity’s anonymous authentication to enable online multiplayer functionality. No personally identifiable information (PII) is collected through this process.
+The Application uses Unity’s Anonymous Authentication and Player Account to enable online multiplayer functionality and cloud-saving functionality. it may collect **personally identifiable information (PII)** to support features like user authentication for  cloud save syncing.
 
-Users may optionally provide a nickname to personalize their in-game identity. This nickname is not linked to any personal data and is only used for display and session identification during gameplay.
+Users may provide a nickname to personalize their in-game identity. This nickname is not linked to any personal data and is only used for display and session identification during gameplay.
 
 The Application may collect advertising-related data via the Unity Ads SDK, which may include device identifiers (such as the Android Advertising ID), interactions with ads, and general usage behaviour. This data may be used for ad targeting and performance measurement purposes.
 
@@ -26,8 +26,9 @@ Only aggregated, anonymized data may be periodically transmitted to external ser
 
 The Application utilizes third-party services that have their own privacy policies regarding data handling. Below are links to the privacy policies of the third-party service providers used by the Application:
 
-*   [Unity Privacy Policy](https://unity.com/legal/privacy-policy)
-*   [Unity Ads Privacy Policy](https://unity.com/legal/game-player-and-app-user-privacy-policy)
+- [Unity Privacy Policy](https://unity.com/legal/privacy-policy)
+- [Unity Ads Privacy Policy](https://unity.com/legal/game-player-and-app-user-privacy-policy)
+- [Unity Player Account Policy](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -37,7 +38,7 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 ### Opt-Out Rights
 
-You can stop all collection of information by the Application easily by uninstalling it. You may also limit ad tracking through your device settings (e.g., “Opt out of Ads Personalization” on Android). You may use the standard uninstall processes available on your mobile device or via the application marketplace or network.
+You can stop all collection of information by the Application easily by uninstalling it. You may also limit ad tracking through your device settings (e.g., “opt out of Ads Personalization” on Android). If you had created a [Unity Player Account](https://player-account.unity.com/), you can as well delete the account using this [link](https://player-account.unity.com/delete-account), and for your cloud save-data, you'll have contact the developer with your Player ID(which is available in the game).
 
 ### Data Retention Policy
 
