@@ -27,7 +27,7 @@
       "_appName": "Racer",
       "_appTitle": "Game dev",
       "_appFooter": "&copy; Racer",
-      "_appFaviconPath": "images/racer-logo.svg",
+      "_appFaviconPath": "images/racer-logo.ico",
       "_appLogoPath": "images/empty.png",
       "_enableSearch": false,
       "pdf": false
