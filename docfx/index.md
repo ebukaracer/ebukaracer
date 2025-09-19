@@ -3,7 +3,7 @@
 <p align="center">🎯</p>
 <p align="center"> 
 Unity Game Developer<br>
-.NET C# Developer<br>
+ASP.NET Web Developer<br>
 Rust Enthusiast<br>
 </p>
 
