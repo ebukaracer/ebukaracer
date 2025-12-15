@@ -1,4 +1,4 @@
-<h1 align="center">Summary</h1>
+<h1 align="center">Intro</h1>
 
 <p align="center">🎯</p>
 <p align="center"> 
@@ -16,7 +16,7 @@ Rust Enthusiast<br>
 
 <p align="center">📂</p>
  <p align="center"> 
-   <b><a href="https://ebukaracer.github.io/portfolio"> Portfolio?</a></b>
+   <b><a href="https://github.com/ebukaracer?tab=stars"> Projects?</a></b>
  </p>
                                                                                                                                                
 <p align="center"> 
